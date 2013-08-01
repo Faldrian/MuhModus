@@ -12,7 +12,7 @@
 // @include     https://*/mentions
 // @include     https://*/tags/*
 // @include     https://*/people/*
-// @version     1.0.0
+// @version     1.0.1
 // ==/UserScript==
 
 
