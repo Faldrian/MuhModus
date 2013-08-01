@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name        Muh-Modus
 // @namespace   Mein eigener
-// @description Weitersagen -> Weiderkäuen
+// @description Weitersagen -> Wiederkäuen
+// @downloadURL	https://github.com/Faldrian/MuhModus/raw/master/MuhModus.user.js
+// @updateURL	https://github.com/Faldrian/MuhModus/raw/master/MuhModus.user.js
 // @include     https://*/stream
 // @include     https://*/notifications
 // @include     https://*/activity
